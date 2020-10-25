@@ -1,21 +1,21 @@
-# Jogo Matemático para Crianças
+# Jogo Matemático para Crianças - VBScript
 
 Simples jogo para as crianças treinarem suas habilidades matemáticas.
 
  - Os operadores matemáticos e os números dos cálculos são gerados randomicamente;
  - Há um contador de pontuação.
  
- # Soletrando
+ # Soletrando - VBScript
  Jogo para digitar a palavra ouvida, o usuário vence ao terminar os 4 níveis sem errar nenhuma palavra. 
  
  - É possível ouvir novamente a palavra uma única vez por rodada.  
  - É possível pular uma palavra uma única vez no jogo.
  
- # Jogo de Adivinhar
+ # Jogo de Adivinhar - Batch
 
 Jogo para o usuário adivinhar um número sorteado pela máquina. A cada erro a máquina dá uma dica, e o usuário tem 5 chances para acertar. Os números já jogados são exibidos na tela, para o jogador não repeti-los.
  
- # Jokenpo - Pedra, Papel, Tesoura, Lagarto e Spock!
+ # Jokenpo - Pedra, Papel, Tesoura, Lagarto e Spock! - Batch
 
 Jogo jo-ken-po na versão "Pedra, Papel, Tesoura, Lagarto e Spock" em .bat
 
