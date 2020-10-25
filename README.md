@@ -1,6 +1,3 @@
-# Jogos progamados em Batch
-Foram criados jogos em .bat para uma atividade da faculdade.
-
 # Pedra, Papel, Tesoura, Lagarto e Spock!
 
 Jogo jo-ken-po na versão "Pedra, Papel, Tesoura, Lagarto e Spock" em .bat
