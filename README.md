@@ -21,7 +21,6 @@ Jogo jo-ken-po na versão "Pedra, Papel, Tesoura, Lagarto e Spock" em .bat
 
 Esse é um projeto de jo-ken-po na versão "Pedra, Papel, Tesoura, Lagarto e Spock", foi um desafio da faculdade para a matéria de Sistemas de Informação.
 
- - Regras do Jogo:
 ![enter image description here](https://i.imgur.com/p9MPH.png)
 
 >  Estes foram exercícios da faculdade para treinar os conhecimentos em
